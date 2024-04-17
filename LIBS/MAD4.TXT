@@ -1,0 +1,18 @@
+First name(Male)
+First name(female)
+Noun
+Article of clothing(Plural)
+Part of the body
+Noun
+Part of the body(plural)
+Last name of person in the room
+Adjective
+Adjective
+Plural noun
+Noun
+Adverb
+Noun
+Adverb
+Adjective
+Plural noun
+Noun

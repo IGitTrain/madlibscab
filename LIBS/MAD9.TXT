@@ -1,0 +1,15 @@
+Noun
+Adjective
+Animal
+Adjective
+Adjective
+Noun
+Type of Container
+Noun
+Part of the body
+Adjective
+Adjective
+Adjective
+Adjective
+Verb(Past tense)
+Plural noun

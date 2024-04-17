@@ -1,0 +1,13 @@
+State
+Adjective
+Noun
+Nationality
+Noun
+Type of liquid
+A place
+Noun
+Noun
+Noun
+Adverb
+Plural noun
+Celebrity(Male)
