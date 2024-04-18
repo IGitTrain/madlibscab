@@ -1,6 +1,6 @@
-Adjective
-Noun
-Noun
+considerate
+cloak
+saw
 Adjective
 Part of the Body
 Noun

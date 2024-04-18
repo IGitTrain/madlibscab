@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Plural Noun
 Verb ending in "ing"
-Noun-changed new
+Noun
+=======
+gongs
+jumoing
+violin
+>>>>>>> main
 Noun
 Plural Noun
 Part of the body
