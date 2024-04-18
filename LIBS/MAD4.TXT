@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 First name(Male)  My name is Walt
 First name(female)
 Noun
+=======
+James
+Betty
+house
+>>>>>>> main
 Article of clothing(Plural)
 Part of the body
 Noun

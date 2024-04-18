@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 Green
 Plural Noun
 Adjective
 Exclamation
+=======
+Rec
+bvaloons
+stupedious
+ah ha
+>>>>>>> main
 Silly Word
 Verb(Past Tense)
 Plural Noun
