@@ -1,6 +1,6 @@
-Noun
-Adjective
-Verb
+lava lamp
+happy
+walk
 Adverb
 Noun
 Adjective
