@@ -1,6 +1,6 @@
-Plural Verb
+Plural nothing
 Adjective
-Animal dog
+Animal dog and cat
 Noun
 Adjective
 Adjective
