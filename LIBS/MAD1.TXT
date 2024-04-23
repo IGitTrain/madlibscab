@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Green
+Green Color
 Plural Noun
 Adjective
 Exclamation
