@@ -1,6 +1,8 @@
 Plural nothing
 Adjective
 Animal dog and cat
+appetizing
+honey badger
 Noun
 Adjective
 Adjective
