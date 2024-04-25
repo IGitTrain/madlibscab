@@ -1,14 +1,14 @@
-Noun
-Adjective
-Verb
+Car
+Blue
+Run
 Adverb
-Noun
+Flower
 Adjective
 Plural Noun
-Plural Noun
+Plants
 Plural Noun
 Part of the Body
-Noun
+Tree
 Noun
 Noun
 Noun
