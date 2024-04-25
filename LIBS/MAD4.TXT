@@ -1,6 +1,6 @@
-First name(Male)
-First name(female)
-Noun
+James
+Betty
+house
 Article of clothing(Plural)
 Part of the body
 Noun

@@ -1,7 +1,7 @@
-Adjective
-Adjective
-Noun
-Noun
+unhappy
+confused
+sheep
+tree
 Plural Noun
 Adverb
 Verb
