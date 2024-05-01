@@ -1,4 +1,4 @@
-Plural noun
+brooms
 Adverb
 Type of fruit
 Part of the body
@@ -10,7 +10,7 @@ Noun
 Verb ending in "ing"
 Part of the body
 Plural noun
-Verb
+sleep
 Verb
 Noun
 Plural noun
