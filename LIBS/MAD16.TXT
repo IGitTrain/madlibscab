@@ -3,7 +3,7 @@ Plural Noun
 Part fo the body
 bicycles
 leg
-Number
+ARM
 Plural noun
 Part of the body
 Hello World
