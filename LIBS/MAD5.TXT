@@ -1,9 +1,15 @@
+<<<<<<< HEAD
+Plural Noun
+Verb ending in "ing"
+Noun
+=======
 gongs
 jumoing
 violin
+>>>>>>> main
 Noun
 Plural Noun
-Part of the body
+Part of the body - Brain, heart
 Noun
 Verb ending in "ing"
 Part of the body(Plural)
