@@ -1,8 +1,8 @@
+red
+Plural
 purple
-Plural Noun
-Adjective
-Exclamation
-Silly Word
+Example
+Silly
 Verb(Past Tense)
 Plural Noun
 Verb
