@@ -1,9 +1,9 @@
 James
 Betty
-house
+MAKE 1ST EDIT HERE
 Article of clothing(Plural)
 Part of the body
-Noun
+MAKE 2ND EDIT HERE
 Part of the body(plural)
 Last name of person in the room
 Adjective

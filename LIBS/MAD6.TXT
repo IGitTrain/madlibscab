@@ -1,9 +1,9 @@
 shoes
 drains
-open
+MAKE 1ST EDIT HERE
 Type of food
 Plural noun
-Plural noun
+MAKE 2ND EDIT HERE
 Adjective
 Plural noun
 Verb
