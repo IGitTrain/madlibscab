@@ -1,7 +1,7 @@
 confused
 book
 uggs
-Number
+42
 Adjective
 Verb ending in "S"
 Adjective
