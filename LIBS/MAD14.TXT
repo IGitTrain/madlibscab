@@ -1,4 +1,4 @@
-Plural nothing
+dog & cat
 Adjective
 Animal dog and cat
 appetizing
