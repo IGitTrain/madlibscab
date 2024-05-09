@@ -1,17 +1,6 @@
-<<<<<<< HEAD
 Plural Noun
 Verb ending in "ing"
 Noun
-=======
-gongs
-jumoing
-violin
->>>>>>> main
-<<<<<<< HEAD
-Noun- sbk
-=======
-Noun- soubhik
->>>>>>> feat00
 Plural Noun
 Part of the body - Brain, heart, eyes
 Noun
