@@ -3,6 +3,11 @@ Plural
 purple
 Example
 Silly
+Rec
+bvaloons
+stupedious
+ah ha
+Silly Word
 Verb(Past Tense)
 Plural Noun
 Verb

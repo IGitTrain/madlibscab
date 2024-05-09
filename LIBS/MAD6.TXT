@@ -1,6 +1,9 @@
 lines got changed
 DHANUNJAya
 Verb
+shoes
+drains
+open
 Type of food
 Plura
 Plural noun
