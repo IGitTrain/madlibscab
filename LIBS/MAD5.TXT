@@ -9,7 +9,7 @@ violin
 >>>>>>> main
 Noun
 Plural Noun
-Part of the body - Brain, heart
+Part of the body - Brain, heart, eyes
 Noun
 Verb ending in "ing"
 Part of the body(Plural)
