@@ -1,15 +1,10 @@
-<<<<<<< HEAD
 Plural Noun
 Verb ending in "ing"
-Noun- soubhik
-=======
 gongs
 jumoing
 violin
->>>>>>> main
-Noun- sbk
 Plural Noun
-Part of the body - Brain, heart
+Part of the body
 Noun
 Verb ending in "ing"
 Part of the body(Plural)
