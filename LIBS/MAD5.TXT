@@ -3,11 +3,11 @@ Plural Noun
 Verb ending in "ing"
 Noun
 =======
-gongs
-jumoing
-violin
 >>>>>>> main
+<<<<<<< HEAD
 Noun- soubhik
+=======
+>>>>>>> lab02-05
 Plural Noun
 Part of the body - Brain, heart, eyes
 Noun
