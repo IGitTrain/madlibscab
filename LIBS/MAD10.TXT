@@ -1,7 +1,7 @@
 suit
 giraffe
 doom
-room
+room    LUCKY
 Noun
 Noun that Rhymesd with "Day"
 Animal
