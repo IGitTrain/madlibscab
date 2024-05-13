@@ -4,7 +4,9 @@ Noun that rhymes with "Moon"
 conflict with Bill
 giraffe
 doom
-room    LUCKY
+room    STASH May cause conflict
+changes to be stashed
+XXXXXXXX
 Noun
 Noun that Rhymesd with "Day"
 Animal
