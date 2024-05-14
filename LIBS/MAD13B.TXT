@@ -1,4 +1,7 @@
-gloomy days
+totally different mad13 text
+this is a source change but not committed
+making more changes for stash
+still working on the change 5-12
 starting to get clearer
 Adjective
 Part of the Body
@@ -12,5 +15,3 @@ lines to see how
 updates work.
 This is typical
 new code
-making hotfix to mad13 after stash which was prior to mad13B
-

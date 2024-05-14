@@ -1,8 +1,8 @@
 Plural noun
 Adverb
 Type of fruit
-Part of the body
-Pural noun
+leg
+trees
 Noun
 Noun
 Color
@@ -11,7 +11,7 @@ Verb ending in "ing"
 Part of the body
 Plural noun
 Verb
-Verb
+run
 Noun
 Plural noun
 Noun

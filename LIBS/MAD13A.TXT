@@ -1,0 +1,20 @@
+This is a 2nd source
+gloomy
+starting to get clearer
+Adjective
+Part of the Body
+brain is in overload
+overload plus
+dogs
+Adverb
+Noun
+changed to new text and
+comment out old
+* commented out the next 2 line as old saved source - chgd on main branch
+* Added new text
+* lines to see how
+updates work.
+This is typical
+new code
+making hotfix chges
+making 2nd hotfix after I got a stash to work
