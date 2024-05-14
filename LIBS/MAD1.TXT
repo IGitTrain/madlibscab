@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 Color
 PINKKcolour
 Adjective
 Exclamation
-=======
 red
 Plural
 purple
@@ -13,7 +11,6 @@ Rec
 bvaloons
 stupedious
 ah ha
->>>>>>> ace602234679fa69da9c2beaaa08ba25d032b524
 Silly Word
 Verb(Past Tense)
 Plural Noun
