@@ -15,3 +15,7 @@ lines to see how
 updates work.
 This is typical
 new code
+This is new code for the Review 1 Exercise
+I am working with Karthika who is using
+branch TEST12-514
+She is updating MAD12
