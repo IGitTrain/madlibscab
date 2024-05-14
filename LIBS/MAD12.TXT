@@ -3,7 +3,7 @@ blue
 Verbchangednew
 Noun
 unhappy
-confused
+adjective
 sheep
 tree
 Plural Noun
