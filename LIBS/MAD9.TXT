@@ -1,6 +1,6 @@
-Noun
-Adjective
-Animal
+flute
+sad
+tiger
 Adjective
 Adjective
 Noun

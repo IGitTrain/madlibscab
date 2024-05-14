@@ -2,6 +2,10 @@ happy
 blue
 Verbchangednew
 Noun
+unhappy
+confused
+sheep
+tree
 Plural Noun
 Adverb
 Verb
