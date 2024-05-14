@@ -8,8 +8,8 @@ sheep
 tree
 Plural Noun
 Adverb
-Verb
-Adjective
+run
+red
 Plural noun
 Adjective
 Adjective
