@@ -1,3 +1,7 @@
+happy
+blue
+Verbchangednew
+Noun
 unhappy
 confused
 sheep
