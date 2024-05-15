@@ -3,7 +3,8 @@ blue
 Verbchangednew
 Noun
 unhappy
-confused
+adjective
+confused - JRM changed line for Exercise 1
 sheep
 tree
 Plural Noun
