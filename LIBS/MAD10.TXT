@@ -4,7 +4,7 @@ Noun that rhymes with "Moon"
 conflict with Bill
 giraffe
 doom
-room    STASH May cause conflict
+room
 changes to be stashed
 XXXXXXXX
 Noun
