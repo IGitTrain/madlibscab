@@ -2,7 +2,7 @@ Noun    HICKORY FLAVOR
 Animal dog
 Noun that rhymes with "Moon"
 conflict with Bill
-giraffe
+giraffe  LARGE  chgnage
 doom
 room
 changes to be stashed
