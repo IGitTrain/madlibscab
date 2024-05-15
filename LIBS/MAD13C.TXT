@@ -1,3 +1,6 @@
+move 'heading text' to head01-out.
+write prtf1 from head01-out.
+
 * CF needed more edits
 If CABRILLO-COASTAL
    if date > 1240101
