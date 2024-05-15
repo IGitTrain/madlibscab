@@ -1,0 +1,25 @@
+* CF needed more edits
+If CABRILLO-COASTAL
+   if date > 1240101
+      move 'X' to print-form of prtf1
+   else
+      move 'Y' to print-form of prtf1.
+
+evaluate
+   when TODAY-WS = 'MONDAY'
+      move 'DOw2' to work-for-DOW.
+   when TODAY-WS = 'TUESDAY'
+      move 'DOw3' to work-for-DOW.
+   when TODAY-WS = 'WEDNESDAY'
+      move 'DOw4' to work-for-DOW.
+   when TODAY-WS = 'THRUSDAY'
+      move 'DOw5' to work-for-DOW.
+   when TODAY-WS = 'FRIDAY  '
+      move 'DOw6' to work-for-DOW.
+
+move corr polhdr-ws to polhdr of polhdr01-rcd.
+read polhdr01-file.
+
+move corr polhdr of polhdr01-rcd to detl01-of prtf1.
+write prtf1.
+
