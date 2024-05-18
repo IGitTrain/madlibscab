@@ -1,9 +1,9 @@
 Green
 PINKKcolour
-Adjective
-Exclamation
+happy
+whoo
 red
-Plural
+hats
 purple
 Example
 Silly
@@ -11,8 +11,8 @@ Rec
 bvaloons
 stupedious
 ah ha
-Silly Word
-Verb(Past Tense)
+hubba
+ran
 Plural Noun
 Verb
 Plural Noun
