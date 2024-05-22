@@ -1,7 +1,11 @@
+move 'heading text' to head01-out.
+write prtf1 from head01-out.
+
 * CF needed more edits
 If CABRILLO-COASTAL
    if date > 1240101
-      move 'X' to print-form of prtf1
+*     move 'X' to print-form of prtf1
+      move 'T' to print-form of prtf1
    else
       move 'Y' to print-form of prtf1.
 
@@ -24,3 +28,6 @@ move corr polhdr of polhdr01-rcd to detl01 of prtf1.
 move corr polppl of polppl01-rcd to detl01 of prtf1.
 write prtf1.
 
+add 5 to nbr-ws.
+move mbr-ws to mbr-fld of detl01.
+write prtf1.
