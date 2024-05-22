@@ -24,6 +24,7 @@ evaluate
 move corr polhdr-ws to polhdr of polhdr01-rcd.
 read polhdr01-file.
 
-move corr polhdr of polhdr01-rcd to detl01-of prtf1.
+move corr polhdr of polhdr01-rcd to detl01 of prtf1.
+move corr polppl of polppl01-rcd to detl01 of prtf1.
 write prtf1.
 
