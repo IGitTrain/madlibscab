@@ -28,3 +28,6 @@ move corr polhdr of polhdr01-rcd to detl01 of prtf1.
 move corr polppl of polppl01-rcd to detl01 of prtf1.
 write prtf1.
 
+add 5 to nbr-ws.
+move mbr-ws to mbr-fld of detl01.
+write prtf1.
