@@ -1,10 +1,10 @@
-Color
+I made a change here
 Plural Noun
-Adjective
-Exclamation
+I changed this line and deleted the line above it
 Silly Word
 Verb(Past Tense)
 Plural Noun
+I added this line
 Verb
 Plural Noun
 Verb
