@@ -3,7 +3,7 @@ PINKKcolour
 Adjective
 Exclamation
 red
-Plural
+pigs
 purple
 Example
 Silly
