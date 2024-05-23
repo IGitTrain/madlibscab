@@ -1,7 +1,7 @@
 Noun
 Animal dog
 Noun that rhymes with "Moon"
-suit
+suit able
 giraffe
 doom
 room
