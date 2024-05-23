@@ -7,7 +7,7 @@ Plural
 purple
 Example
 Silly
-GITDIFF test JRM 2nd chg to this line
+Testing change for gitdiff 52324 - 2ND CHG
 bvaloons
 stupedious
 ah ha
