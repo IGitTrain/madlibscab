@@ -17,3 +17,6 @@ This is typical
 new code
 making hotfix to mad13 after stash which was prior to mad13B
 
+new fixes and additions
+after using clear repo
+and doing check out on mad13
