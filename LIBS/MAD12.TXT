@@ -1,11 +1,16 @@
-Adjective
-Adjective
+happy
+blue
+Verbchangednew
 Noun
-Noun
+unhappy
+adjective
+confused - JRM changed line for Exercise 1
+sheep
+tree
 Plural Noun
 Adverb
-Verb
-Adjective
+run
+red
 Plural noun
 Adjective
 Adjective
