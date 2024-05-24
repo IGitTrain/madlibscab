@@ -6,7 +6,11 @@ giraffe  LARGE  chgnage
 doom
 room
 changes to be stashed
+<<<<<<< Updated upstream
 next chance
+=======
+stahs
+>>>>>>> Stashed changes
 Noun
 Noun that Rhymesd with "Day"
 Animal
