@@ -6,15 +6,8 @@ giraffe  LARGE  chgnage
 doom
 room
 changes to be stashed
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 next chance
-=======
-stahs
->>>>>>> Stashed changes
-=======
-stahs
->>>>>>> Stashed changes
+chkout test
 Noun
 Noun that Rhymesd with "Day"
 Animal
