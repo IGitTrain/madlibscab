@@ -6,7 +6,7 @@ Adjective
 Plural noun
 Plural noun
 Adjective
-Noun
+Emer chg in kr528b2 branch -commit immed
 Adjective
 Part of the body(Plural)
 Part of the body(Plural)
