@@ -1,9 +1,9 @@
-gloomy days
-adding change for Stash
+totally different mad13 text
+this is a source change but not committed
 making more changes for stash
 still working on the change 5-12
 starting to get clearer
-Adjective
+orange - kv
 Part of the Body
 brain is in overload
 overload plus
@@ -15,5 +15,7 @@ lines to see how
 updates work.
 This is typical
 new code
-making hotfix to mad13 after stash which was prior to mad13B
-
+This is new code for the Review 1 Exercise
+I am working with Karthika who is using
+branch TEST12-514
+She is updating MAD12

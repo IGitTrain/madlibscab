@@ -1,10 +1,17 @@
+<<<<<<< HEAD
 NounAD
+=======
+Noun    HICKORY FLAVOR
+>>>>>>> 12bed3791faf9e7ae5d3b2a882d48bbc2907cfc5
 Animal dog
 Noun that rhymes with "Moon"
-suit
-giraffe
+conflict with Bill
+giraffe  LARGE  chgnage
 doom
 room
+changes to be stashed
+next chance
+chkout test
 Noun
 Noun that Rhymesd with "Day"
 Animal
@@ -12,7 +19,7 @@ Musical Instrument
 A Place
 Type of vegitable
 Adjective
-Noun
-Animal
+Noun  -- AAAAAAAAAAAAAAAAAAAA
+Animal PLanet
 Noun
 Verb that rhymes with "snow"
