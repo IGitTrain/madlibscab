@@ -31,3 +31,9 @@ write prtf1.
 add 5 to nbr-ws.
 move mbr-ws to mbr-fld of detl01.
 write prtf1.
+
+Part of walt & my testing.  I cleared my repo
+did checkout for mad13C
+
+updated new lines to just try to understand the flow
+of my source.
