@@ -4,7 +4,7 @@ Geographical Location
 Exclamation
 Number
 Adjective
-Adjective
+Noun
 Plural noun
 Adverb
 Adjective
